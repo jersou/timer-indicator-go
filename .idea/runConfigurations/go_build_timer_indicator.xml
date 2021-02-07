@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build timer-indicator" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="timer-indicator-go" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-o ../../timer-indicator" />
+    <kind value="FILE" />
+    <filePath value="$PROJECT_DIR$/cmd/timer-indicator/main.go" />
+    <directory value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>

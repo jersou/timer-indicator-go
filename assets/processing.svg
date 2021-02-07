@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://creativecommons.org/ns#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        height="64"
+        id="svg1468"
+        inkscape:version="0.48.3.1 r9886"
+        sodipodi:docname="pause.svg"
+        sodipodi:version="0.32"
+        version="1.0"
+        width="64"
+        x="0.00000000"
+        y="0.00000000"
+        inkscape:export-xdpi="90"
+        inkscape:export-ydpi="90">
+    <metadata
+            id="metadata3">
+        <rdf:RDF>
+            <cc:Work
+                    rdf:about="">
+                <dc:title>hourglass</dc:title>
+                <dc:description>hourglass symbol</dc:description>
+                <dc:subject>
+                    <rdf:Bag>
+                        <rdf:li>hourglass symbol</rdf:li>
+                    </rdf:Bag>
+                </dc:subject>
+                <dc:publisher>
+                    <cc:Agent
+                            rdf:about="http://www.openclipart.org/">
+                        <dc:title>Jarno Vasamaa</dc:title>
+                    </cc:Agent>
+                </dc:publisher>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jarno Vasamaa</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Jarno Vasamaa</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:date/>
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                        rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <cc:license
+                        rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+                <dc:language>en</dc:language>
+            </cc:Work>
+            <cc:License
+                    rdf:about="http://web.resource.org/cc/PublicDomain">
+                <cc:permits
+                        rdf:resource="http://web.resource.org/cc/Reproduction"/>
+                <cc:permits
+                        rdf:resource="http://web.resource.org/cc/Distribution"/>
+                <cc:permits
+                        rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <sodipodi:namedview
+            bordercolor="#666666"
+            borderopacity="1.0"
+            id="base"
+            inkscape:current-layer="svg1468"
+            inkscape:cx="73.178551"
+            inkscape:cy="31.943044"
+            inkscape:pageopacity="0.0"
+            inkscape:pageshadow="2"
+            inkscape:window-height="1028"
+            inkscape:window-width="1680"
+            inkscape:zoom="2.5946105"
+            pagecolor="#ffffff"
+            showgrid="false"
+            inkscape:window-x="1920"
+            inkscape:window-y="0"
+            inkscape:window-maximized="1"/>
+    <defs
+            id="defs1470"/>
+    <g
+            id="layer1"
+            transform="matrix(0.49235093,0,0,0.49235093,-12.011023,-13.084462)">
+        <g
+                id="g2694"
+                transform="matrix(1.142729,0,0,1.142729,-11.17159,-982.1402)">
+            <path
+                    d="m 75.461673,891.04293 25.331057,0.25329 c 13.15111,0 12.84713,-0.58301 12.84713,11.90686 l 0,13.66793 c -14.108108,21.24664 -10.58735,22.54491 -23.738457,22.54491 l -3.80169,0 c -13.151107,0 -10.603326,-2.27125 -23.738461,-22.54491 l 0.253285,-14.42779 c 0,-12.48987 -0.303971,-11.40029 12.847136,-11.40029 z"
+                    id="rect2675"
+                    style="fill:#ffffff;fill-opacity:1;stroke:#00ff00;stroke-width:2.59708476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+                    inkscape:connector-curvature="0"/>
+            <path
+                    d="m 87.740505,994.30729 1.072881,0.0462 c 13.151104,0 24.826474,-5.10718 24.826474,-17.59705 l 0,-13.66793 C 98.072292,939.89593 103.05251,940.5436 89.901403,940.5436 l -3.80169,0 c -13.151107,0 -7.19792,-1.62065 -23.738461,22.54491 l 0.253285,14.42779 c 0,12.48987 11.97486,16.79099 25.125968,16.79099 z"
+                    id="path2678"
+                    style="fill:#ffffff;fill-opacity:1;stroke:#00ff00;stroke-width:2.59708476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+                    inkscape:connector-curvature="0"/>
+            <path
+                    d="m 83.052866,934.63666 c 0,0 -6.005093,-3.75625 -7.727683,-6.05303 -1.722586,-2.29679 -4.489877,-8.40557 -4.489877,-8.40557 l -1.945946,-4.29848 c 0,0 10.861788,-0.0877 12.967173,1.63488 2.105389,1.72259 5.598505,1.0447 6.938295,0.6619 1.339791,-0.38279 8.995741,-1.72258 13.589312,-1.91399 4.59357,-0.19139 4.78496,0.3828 4.78496,0.3828 0,0 -0.86928,5.01614 -3.35746,7.31292 -2.48819,2.29679 -6.40387,9.72157 -11.188837,10.86996 -4.784971,1.1484 -1.148393,0.7656 -1.148393,0.7656 0,0 -1.339791,0.3828 -1.72259,3.25377 -0.382795,2.87099 -0.956992,6.89036 -1.148394,9.18715 -0.191397,2.29678 -0.765594,17.764 -0.574196,19.10379 0.191402,1.33979 7.514094,4.9426 9.619483,6.85658 2.105385,1.91399 11.603977,7.39987 9.403307,9.04529 -7.596337,5.67966 -18.448594,5.12499 -18.448594,5.12499 l -11.21144,-0.98177 c 0,0 -18.53431,-4.78733 -4.474254,-10.79941 4.893828,-2.0926 11.85772,-7.3317 13.58031,-8.28869 1.72259,-0.95699 1.531188,-2.29678 1.531188,-2.29678 0,0 -0.382795,-22.74037 -1.148389,-24.84576 -0.765594,-2.10539 -3.636578,-5.74196 -3.827975,-6.31615 z"
+                    id="path2680"
+                    style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+                    inkscape:connector-curvature="0"/>
+            <path
+                    d="m -450,110.36218 a 55,16 0 1 1 -110,0 55,16 0 1 1 110,0 z"
+                    id="path2682"
+                    style="fill:#ffffff;fill-opacity:1;stroke:#00ff00;stroke-width:5.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+                    transform="matrix(0.442057,0,0,0.442057,311.4696,843.1362)"
+                    inkscape:connector-curvature="0"/>
+        </g>
+    </g>
+</svg>
